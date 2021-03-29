@@ -1,0 +1,8 @@
+.border-1 { border: 1px solid; }
+
+.color-default { color: #E04343 !important; }
+.color-dark { color: #555555 !important; }
+.font-italic { font-style: italic; }
+.font-bold { font-weight: 700; }
+.no-text-transform { text-transform:none; }
+.text-lowercase { text-transform:lowercase; }
