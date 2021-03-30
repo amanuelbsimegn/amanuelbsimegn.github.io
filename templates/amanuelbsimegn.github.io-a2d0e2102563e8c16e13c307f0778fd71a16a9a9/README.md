@@ -1,1 +1,0 @@
-# amanuelbsimegn.github.io
