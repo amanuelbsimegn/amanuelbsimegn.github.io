@@ -1,8 +1,35 @@
-.border-1 { border: 1px solid; }
+.border-1{ border:1px solid; }
 
-.color-default { color: #E04343 !important; }
-.color-dark { color: #555555 !important; }
-.font-italic { font-style: italic; }
-.font-bold { font-weight: 700; }
-.no-text-transform { text-transform:none; }
-.text-lowercase { text-transform:lowercase; }
+.color-default{ color:#E04343 !important; }
+.color-dark{ color:#555555 !important; }
+.font-italic{ font-style:italic; }
+.font-bold{ font-weight:700; }
+.no-text-transform{ text-transform:none; }
+.text-lowercase{ text-transform:lowercase; }
+
+html, body {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+@media screen and (max-width:1268px){
+    .hero{
+        background:none !important;
+        height:auto;
+    }
+}
+
+.hero h1{
+	font-size:100px !important;
+	line-height:95px !important;
+}
+
+@media screen and (max-width:768px){
+    .hero h1{
+        font-size:75px !important;
+    }
+}
