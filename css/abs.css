@@ -16,10 +16,16 @@ html, body {
     user-select: none;
 }
 
-@media screen and (max-width:1268px){
+@media (max-width:1200px){
     .hero{
         background:none !important;
         height:auto;
+    }
+    .about-image {
+        display: none;
+    }
+    .about-text h1 {
+        text-align: right !important;
     }
 }
 
@@ -28,7 +34,7 @@ html, body {
 	line-height:95px !important;
 }
 
-@media screen and (max-width:768px){
+@media (max-width:768px){
     .hero h1{
         font-size:75px !important;
     }
