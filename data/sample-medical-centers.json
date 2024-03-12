@@ -13,7 +13,5 @@
 {"County":"Bee", "Provider":"DPS - Texas Department of Public Safety", "Address":"400 South Hillside Drive, Beeville, Texas 78102-5375", "Phone":"361-358-6272", "Website":"www.dps.texas.gov", "Description":"Hours: Monday, Thursday and Friday 8:00 - 5:00, Tuesday and Wednesday 8:30 - 5:00"},
 {"County":"Bell", "Provider":"Aware Central Texas", "Address":"2408 Clear Creek Rd Ste 201, Killeen, Texas 76541", "Phone":"254-213-2986", "Website":"", "Description":"Service: Parenting & Anger Management Classes"},
 {"County":"Bell", "Provider":"Baptist Benevolence Ministry", "Address":"300 West Avenue B, Copperas Cove, Texas 76522", "Phone":"254-542-6780", "Website":"www.fbccove.net/ministries/benevolence", "Description":"Assist with paying any utility bill. Bill must be in your name of person applying. Monday, Wednesday, Friday 9:00 am - 12:00 pm."},
-{"County":"Bailey", "Provider":"DPS - Texas Department of Public Safety", "Address":"300 South 1st Street, Room 302, Muleshoe, Texas 79347-3621", "Phone":"806-272-3860", "Website":"www.dps.texas.gov", "Description":"Hours: Monday - Friday 8:30 - 5:00"},
- 
-
+{"County":"Bailey", "Provider":"DPS - Texas Department of Public Safety", "Address":"300 South 1st Street, Room 302, Muleshoe, Texas 79347-3621", "Phone":"806-272-3860", "Website":"www.dps.texas.gov", "Description":"Hours: Monday - Friday 8:30 - 5:00"}
 ]
